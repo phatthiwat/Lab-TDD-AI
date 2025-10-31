@@ -19,4 +19,3 @@ String result = greeting.sayHello(null);
 assertEquals("Hello, Friend", result);
 }
 }
-}
